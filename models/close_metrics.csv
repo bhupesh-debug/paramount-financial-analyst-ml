@@ -1,0 +1,3 @@
+,precision,recall,f1,accuracy,roc_auc
+rule,0.7,0.824,0.757,0.938,
+rf,0.944,1.0,0.971,0.993,0.997

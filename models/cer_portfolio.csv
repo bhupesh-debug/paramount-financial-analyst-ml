@@ -1,0 +1,4 @@
+strategy,selected,cost,npv,utilization_pct
+knapsack optimizer,19,20406000.0,6676390.78,99.5
+greedy by NPV/$,25,20368000.0,6648016.58,99.4
+approve all NPV>0,42,40997000.0,8645813.51,200.0
